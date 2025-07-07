@@ -56,3 +56,31 @@ ____________________________________________________________FUTURE______________
     portions of their army in an attacks or operations they seek to enact.
   - Likewise, in the event of an alliance, kingdoms that are allied with one another will go to war together, whether this
     be defensive or offensive.
+
+
+
+
+
+____________________________________________________________MOCKUP IMAGES___________________________________________________________
+
+*Initial Spawn*
+![IMG_2118](https://github.com/user-attachments/assets/2702927a-35aa-4148-8f15-bdac154a2f8a)
+
+*2 In-Game Years*
+![IMG_2119](https://github.com/user-attachments/assets/a3d3bc37-4567-4632-96ea-51080cf9e45b)
+
+*Selecting Capital Tile*
+![IMG_2120](https://github.com/user-attachments/assets/17365543-1fea-4d62-bc8b-3427d6ca4371)
+
+*Capital Tile*
+![IMG_2121](https://github.com/user-attachments/assets/d65efce4-b14a-41da-8466-93de35261e74)
+
+*Selecting Enemy Tile*
+![IMG_2122](https://github.com/user-attachments/assets/f4b5491a-4685-423e-9972-8b16931881d5)
+
+*Questioning The Attack*
+![IMG_2123](https://github.com/user-attachments/assets/f867d3d3-4787-4be8-88d2-3bd494bdc38e)
+![IMG_2124](https://github.com/user-attachments/assets/461b6b6a-7942-4453-b582-6b34af444bb1)
+
+*Battle Layout*
+![IMG_2125](https://github.com/user-attachments/assets/06075b11-810d-47a0-8dbe-3e88bd4653af)
